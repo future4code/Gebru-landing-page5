@@ -1,0 +1,64 @@
+/* Zerando as configurações da página */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 10000px;
+}
+/* ============================================================================= */
+/* HEADER */
+/* Posicionando os elementos no header */
+.container-cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    position: fixed;
+
+    min-width: 100%;
+    max-width: 100%;
+    max-height: 5em;
+
+    padding: 8px;
+    border-bottom: 1px solid black;
+
+}
+
+/* Estilizando os elementos do menu */
+header nav a{
+    text-decoration: none;
+    color: black;
+
+    padding-left: 2em;
+}
+
+/* Estilizando a logo do header */
+.img-logo{
+    height: 100%;
+    width: auto;
+}
+
+.container-menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+}
+
+header nav a:hover{
+    color: rgb(162, 0, 0);
+}
+
+.menu-botoes{
+    display: flex;
+    justify-content: space-around;
+
+    width: 40%;
+}
+
+.botao{
+    width: 7em;
+    height: 2em;
+}
