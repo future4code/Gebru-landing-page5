@@ -4,9 +4,6 @@
     margin: 0;
 }
 
-body{
-    height: 10000px;
-}
 /* ============================================================================= */
 /* HEADER */
 /* Posicionando os elementos no header */
@@ -61,4 +58,35 @@ header nav a:hover{
 .botao{
     width: 7em;
     height: 2em;
+}
+
+
+
+.container-footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+
+    border-top: 1px solid black;
+    padding: 3%;
+    margin-top: 10%;
+
+}
+
+.contato{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.img-contato{
+    width: 6%;
+    height: 100%;
+}
+
+.formatacao-paginas{
+    text-decoration: none;
+    color: black;
+
+    font-size: 125%;
 }
