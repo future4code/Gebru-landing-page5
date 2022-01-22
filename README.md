@@ -12,4 +12,14 @@
     - No corpo da página, logo abaixo do cabeçalho, possui um espaço para uma breve esplicação sobre a empresa, as  linhas de produtos e o rodapé;
     - Nos espaços para as linhas de produtos, tem-se uma breve explicação sobre eles, fotos de alguns modelos produtos para locação e botões para acessar uma página que contém mais informações sobre as linhas de produtos;
     - No rodapé, consegue-se observar um espaço reservado para contato com a empresa, através do Instagram, Twitter e Facebook. Também é possível acessar as páginas Quem Somos e Nosso time, através do rodapé.
+    
+    Link do surge: https://acrid-boats.surge.sh/
+
+    Integrantes do time: Lucas Coimbra Rocha Lago, Lyon Heitor Escalli, Julio Cesar Alves Moreira
+
+    Imagens da página pronta: 
+    https://ibb.co/1KrBjpp
+    https://ibb.co/1R9ckyH
+    
+    
 ```
